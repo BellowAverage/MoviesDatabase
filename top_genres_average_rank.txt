@@ -1,0 +1,11 @@
+Top 10 Genres by Average Movie Rank:
+Genre: Film-Noir, Average Rank: 6.70
+Genre: Animation, Average Rank: 6.56
+Genre: Documentary, Average Rank: 6.50
+Genre: Adult, Average Rank: 6.43
+Genre: Music, Average Rank: 6.42
+Genre: Short, Average Rank: 6.39
+Genre: War, Average Rank: 6.38
+Genre: Family, Average Rank: 6.31
+Genre: Romance, Average Rank: 6.16
+Genre: Drama, Average Rank: 6.14

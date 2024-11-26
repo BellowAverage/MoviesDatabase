@@ -19,11 +19,6 @@ This project demonstrates the creation and querying of a database built using SQ
 3. **Result Export**:
    - Stores query results in separate output text files for future reference.
 
-4. **Error Handling and Debugging**:
-   - Handles issues such as malformed CSV rows, missing data relationships, and SQL errors gracefully.
-   - Logs helpful messages to track progress and identify issues.
-
----
 
 ## **Database Schema**
 
@@ -57,7 +52,7 @@ The database is composed of six tables. Below is the data dictionary, detailing 
 - Skips malformed rows or rows with fewer fields than expected.
 - Uses prepared SQL statements for efficient batch inserts.
 
-### **Complex Queries**
+### **Queries**
 - **Top Movies in a Genre**:
   Fetches the top-ranked movies in a specific genre.
 - **Directors and Their Genres**:
